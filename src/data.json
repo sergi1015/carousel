@@ -1,0 +1,18 @@
+[{
+	"title": "First Block",
+	"images": [
+		"https://reactnative.dev/img/tiny_logo.png",
+		"https://reactnativecode.com/wp-content/uploads/2017/05/react_thumb_install.png",
+		"https://reactnative.dev/img/tiny_logo.png",
+		"https://reactnativecode.com/wp-content/uploads/2017/05/react_thumb_install.png"
+	]
+},
+{
+	"title": "Second Block",
+	"images": [
+		"https://reactnative.dev/img/tiny_logo.png",
+		"https://reactnativecode.com/wp-content/uploads/2017/05/react_thumb_install.png",
+		"https://reactnative.dev/img/tiny_logo.png",
+		"https://reactnativecode.com/wp-content/uploads/2017/05/react_thumb_install.png"
+	]
+}]
